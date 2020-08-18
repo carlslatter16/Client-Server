@@ -11,7 +11,7 @@ python3 PacketClient.py -tcp/udp <host> <port>
  * [Python3](https://docs.python.org/3.6/) - The language used
  * [Sockets](https://docs.python.org/3/library/socket.html) - Used for pseudo low level packet crafting
 
- ## TODO:
+ ## ToDo:
  * Raw sockets: spoofed sender support
  * Payload support
  * UDP scanning detection
